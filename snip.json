@@ -1,0 +1,18 @@
+{	
+"Print to console": {
+		"prefix": "clog",
+		"body": [
+			"console.log('$1');",
+			"$2"
+		],
+		"description": "Log output to console"
+	},
+	"Print Const" : {
+		"prefix": "co",
+		"body": [
+			"const"
+		],
+		"description": "Log output to console"
+
+	}
+}
